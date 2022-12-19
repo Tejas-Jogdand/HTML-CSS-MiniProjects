@@ -1,0 +1,14 @@
+html{
+    font-size:20px;
+    background-color: rgb(255, 255, 255);
+}
+
+.address-to-right-side{
+    text-align:right;
+    margin-right: 10px;
+}
+
+body{
+    max-width: 850px; /*750px */
+    margin: 70px auto;
+}
