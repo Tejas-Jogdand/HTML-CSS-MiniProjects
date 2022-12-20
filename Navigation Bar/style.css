@@ -1,3 +1,19 @@
 html{
     background-color: aquamarine;
 }
+.navbar{
+    background-color: rgb(244, 255, 35);
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    list-style-type: none;
+    float:left;
+    margin: 3px 3px;
+}
+.navbar li a{
+    text-decoration:none;
+    padding: 5px 5px;
+    color:rgb(52, 68, 63);
+}
