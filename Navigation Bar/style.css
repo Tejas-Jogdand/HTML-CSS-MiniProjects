@@ -2,7 +2,10 @@ html{
     background-color: aquamarine;
 }
 .navbar{
-    background-color: rgb(244, 255, 35);
+    background-color: rgb(175, 176, 159);
+    border-radius: 40px;
+    font-size:larger;
+    font-family: 'Times New Roman', Times, serif;
 }
 .navbar ul{
     overflow: auto;
@@ -10,10 +13,27 @@ html{
 .navbar li{
     list-style-type: none;
     float:left;
-    margin: 3px 3px;
+    margin: 18px 18px;
 }
 .navbar li a{
     text-decoration:none;
     padding: 5px 5px;
     color:rgb(52, 68, 63);
+}
+.navbar li a:hover{
+    text-decoration:none;
+    padding-;
+    color:rgb(240, 231, 65);
+}
+.search{
+    float:right;
+    color:beige;
+    margin: 12px 75px;
+}
+.navbar input{
+    border: 2px solid black;
+    border-radius: 4px;
+    padding:6px;
+    width:auto;
+    height:auto;
 }
