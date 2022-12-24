@@ -1,0 +1,33 @@
+html{
+    background-color: chocolate;
+}
+/* header starts here */
+/* navigation bar CSS starts here */
+.navbar{
+    background-color: rgb(206, 193, 98);
+    overflow:auto;
+    border-radius: 30px;
+    padding: 14px 14px;
+}
+.navbar li{
+    float:left;
+    list-style: none;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.navbar a{
+    text-decoration: none;
+    color:blueviolet;
+}
+/*issue in search box
+this searchbox css is not getting applied to search box
+what to do????*/
+.searchbox{
+    align-content:flex-end;
+    float: inline-end;                     
+    border: 3px solid black;
+    border-radius: 30px;
+    overflow:auto;
+    /* width:170px; uncomment this to see error */
+}
+/* navigation bar CSS ends here */

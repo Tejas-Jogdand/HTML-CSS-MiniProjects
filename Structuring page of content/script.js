@@ -1,1 +1,1 @@
-console.log("HI this is web structure")
+console.log("HI this is web structure");
