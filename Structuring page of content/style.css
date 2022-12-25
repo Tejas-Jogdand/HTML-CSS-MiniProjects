@@ -30,3 +30,13 @@ html{
     width:150px; 
 }
 /* navigation bar CSS ends here */
+/* header ends here */
+
+/* main starts here */
+.heading{
+    text-align: center;
+    background-color: cadetblue;
+    text-rendering: geometricPrecision;
+    padding:3px 3px;
+    border-radius:15px ;
+    margin-top: 10px;
