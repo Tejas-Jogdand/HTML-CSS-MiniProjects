@@ -19,15 +19,14 @@ html{
     text-decoration: none;
     color:blueviolet;
 }
-/*issue in search box
-this searchbox css is not getting applied to search box
-what to do????*/
 .searchbox{
     align-content:flex-end;
     float: inline-end;                     
-    border: 3px solid black;
+    border: 1px solid black;
+    padding-right:20px;
+    text-align:right;
     border-radius: 30px;
     overflow:auto;
-    /* width:170px; uncomment this to see error */
+    width:150px; 
 }
 /* navigation bar CSS ends here */
