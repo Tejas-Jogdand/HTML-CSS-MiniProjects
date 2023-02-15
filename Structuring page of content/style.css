@@ -40,3 +40,34 @@ html{
     padding:3px 3px;
     border-radius:15px ;
     margin-top: 10px;
+
+}
+
+.gallery div{
+    flex-direction:column;
+    border: 5px solid black;
+   background: red;
+   padding:10px;
+   margin:10px;
+}
+
+.gallery div a{
+    
+}
+.gallery div p{
+    
+}
+
+
+.gallery img{
+    height: 400px;
+    width:auto;
+    padding: 10px 10px;
+}
+
+footer{
+    background-color:bisque;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding: 2px 20px;
+}
